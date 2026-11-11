@@ -2,7 +2,7 @@
   "name": "picturevideomanager",
   "author": "zhangzhishi1",
   "url": "https://github.com/zhangzhishi1/picture-video-manager",
-  "version": "1.0.40",
+  "version": "1.0.41",
   "minAppVersion": "3.7.0",
   "backends": ["windows", "linux", "darwin"],
   "frontends": ["desktop", "desktop-window"],
