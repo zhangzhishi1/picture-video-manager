@@ -2,7 +2,7 @@
   "name": "picturevideomanager",
   "author": "zhangzhishi1",
   "url": "https://github.com/zhangzhishi1/picture-video-manager",
-  "version": "1.0.41",
+  "version": "1.0.42",
   "minAppVersion": "3.7.0",
   "backends": ["windows", "linux", "darwin"],
   "frontends": ["desktop", "desktop-window"],
@@ -11,8 +11,8 @@
     "zh_CN": "图片与视频管理"
   },
   "description": {
-    "default": "Manage images and videos with link/import modes, multiple views, auto date & tags, Markdown notes and one-click copy.",
-    "zh_CN": "以链接/导入两种模式管理图片与视频，支持多视图、自动日期与标签、Markdown 说明与一键复制。"
+    "default": "Manage linked, imported and local images and videos with multiple views, folders, custom tags, ratings, notes and one-click Markdown copy.",
+    "zh_CN": "集中管理外链、导入和本地引用的图片与视频，支持多视图、文件夹分类、自定义标签、评分、说明与一键复制到笔记。"
   },
   "readme": {
     "default": "README.md",
